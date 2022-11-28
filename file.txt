@@ -1,0 +1,2 @@
+Hello from the shell
+Hell from the second text input
